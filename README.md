@@ -7,22 +7,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=250&section=header&text=Jeison%20Vargas&fontSize=80&desc=Full%20Stack%20%2B%20AI%20Software%20Engineer&descAlign=Y&descAlignY=70&animation=twinkling" width="100%" />
   
   <p align="center">
-    <i>Especializado en arquitecturas de alto rendimiento, sistemas distribuidos e integración de Inteligencia Artificial.</i>
-  </p>
-
-  <!-- Botones de Contacto -->
-  <p>
-    <a href="https://arteinverso.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-    <a href="https://www.linkedin.com/in/jeison-vargas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:info@arteinverso.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
-
-  <!-- Tipografía dinámica -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=High-Performance+Rust+Systems;AI+%2B+LLM+Integration;C%23+%2B+.NET+Architect;TypeScript+%2B+React%2FNext.js;Scalable+Microservices" alt="Typing SVG" />
-
-</div>
-  
-  <p align="center">
     <i>Desarrollador Full stack especializado en arquitecturas de alto rendimiento, sistemas distribuidos e integración de Inteligencia Artificial.</i>
   </p>
 
