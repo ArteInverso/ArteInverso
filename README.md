@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=250&section=header&text=Jeison%20Vargas&fontSize=80&desc=Full%20Stack%20%26%20AI%20Software%20Engineer&descAlign=Y&descAlignY=55&animation=twinkling" width="100%" />
+  <!-- Encabezado Animado (Corregido) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=250&section=header&text=Jeison%20Vargas&fontSize=80&desc=Full%20Stack%20%2B%20AI%20Software%20Engineer&descAlign=Y&descAlignY=55&animation=twinkling" width="100%" />
   
   <p align="center">
     <i>Desarrollador Full stack especializado en arquitecturas de alto rendimiento, sistemas distribuidos e integración de Inteligencia Artificial.</i>
